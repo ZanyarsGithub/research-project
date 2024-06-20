@@ -1,0 +1,5 @@
+/pytorch_tutorials/data/
+/stable_baselines3_tutorials/models/*
+/stable_baselines3_tutorials/logs/*
+.venv
+.idea
